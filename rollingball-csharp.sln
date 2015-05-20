@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{BF9A97D3-7CFC-A786-FA01-B4044406E194}") = "rollingball", "Assembly-CSharp-vs.csproj", "{CD0D4C8C-2782-D6FC-37FA-9329AB6E9331}"
+Project("{7A914E0B-D984-744E-872D-C96918804C03}") = "RollingBall", "Assembly-CSharp-vs.csproj", "{DDAB24FC-C364-25CD-AA0B-3C7FC74ECB2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CD0D4C8C-2782-D6FC-37FA-9329AB6E9331}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CD0D4C8C-2782-D6FC-37FA-9329AB6E9331}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CD0D4C8C-2782-D6FC-37FA-9329AB6E9331}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CD0D4C8C-2782-D6FC-37FA-9329AB6E9331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDAB24FC-C364-25CD-AA0B-3C7FC74ECB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDAB24FC-C364-25CD-AA0B-3C7FC74ECB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDAB24FC-C364-25CD-AA0B-3C7FC74ECB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDAB24FC-C364-25CD-AA0B-3C7FC74ECB2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																												GlobalSection(MonoDevelopProperties) = preSolution
+																															GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
